@@ -1,8 +1,7 @@
 ## 个人信息
 
-- 许文韬/男/1995/湖南长沙 | 手机：17877780731 , 邮箱：guidege666@163.com
-- 博客：<https://javaguide.cn/>（没有东西的话就不要放上来），Github：<https://github.com/Snailclimb> （没有东西的话就不要放上来）
-- 求职意向：Java后端开发 | 期望城市：上海/苏州/杭州
+- 许文韬/男/1995/湖南长沙 | 手机：17877780731 , 邮箱：xwt0731@163.com
+- 求职意向：后端开发 | 期望城市：长沙
 
 ## 教育经历
 
@@ -12,77 +11,63 @@
 
 ## 技能清单
 
-下面是一些比较基本的 Java 后端开发技能（根据你自身的情况调整，切勿完全照搬）：
-
 - **计算机基础** ：熟练掌握计算机网络、数据结构和算法、操作系统
 - **Java**：熟悉 Java 语言，具备 JVM 调优和问题排查经验
-- **开发工具** ：熟练使用 Maven/Gradle、Git、IDEA 、Docker 等开发工具，有 Linux 开发和部署经验
-- **数据库**：熟练掌握 MySQL、Redis、Elasticsearch使用及常见优化手段
-- **框架** ：熟练掌握 Spring、Spring MVC、SpringBoot、MyBatis 等开发框架，
-- **分布式** ：熟练掌握分布式相关理论（如 CAP、Raft）以及解决方案（如分布式ID、分布式事务），熟练使用Spring Cloud Alibaba 全家桶（如 Dubbo、Nacos、Sentinel）
-- **前端**：熟练掌握 HTML、CSS、Javascript、React、Vue 等前端技术，前后端分离架构开发经验丰富
+- **数据库**：熟练掌握 MySQL、Redis使用及常见优化手段
+- **框架** ：熟练掌握 Spring、Spring MVC、SpringBoot、MyBatis 等开发框架
 
-还有一些工作招聘有一些特殊的要求比如：
+- **云原生** ：有Kubernetes 使用经验
 
-- **Devops** : 熟练掌握 Jenkins，搭建过持续集成环境。
-- **云原生** ：熟练掌握 Kubernetes 以及周边生态/ServiceMesh
-
-## 工作经历/实习经历
+## 工作经历
 
 <div style="display: flex; justify-content: space-between;">
-  <div style="font-size: 15px;"><strong>快手（2018 年 6 月 ~ 2020 年 9 月 ）</strong></div>
-  <div>Java 后端开发工程师</div>
+  <div style="font-size: 15px;"><strong>华为（2021 年 7 月 ~ 至今 ）</strong></div>
+  <div>后端开发工程师</div>
 </div>
-1. 负责快手APP的评论、弹幕，搜索业务的功能迭代与稳定性建设。
-2. 负责解决部门技术债，包括统一编码规范、提高测试覆盖率、重构支付业务等工作。
-3. 主讲了10场技术Session，公司内部平台输出了23篇技术博文。
 
 
 
 ## 项目经历 
 
 <div style="display: flex; justify-content: space-between;">
-  <div style="font-size: 15px;"><strong>项目名称（2017 年 6 月 ~ 2017 年 9 月 ）</strong></div>
-  <div>Java 后端开发工程师</div>
+  <div style="font-size: 15px;"><strong>Meta ERP BOM产品（2021 年 7 月 ~ 2024 年 5 月 ）</strong></div>
+  <div>后端开发工程师</div>
 </div>
-**项目描述**：简单描述项目是做什么的，尽量压缩在三行之内。
 
-**技术栈** ：用了什么技术（如 Spring Boot + MySQL + Redis + Mybatis-plus + Spring Security + Oauth2）
+**项目描述**：华为全自研物料主数据产品，实现物料清单全生命周期管理（创建、变更、版本控制、多级BOM展开），支持与生产计划、供应链模块的高效集成。
 
-**工作内容/个人职责**：分条描述，看着会清晰一些。一定要尽量结合具体的业务场景去写，不要只是单纯介绍技术是干什么的。介绍要具体（技术+场景+效果），避免模糊描述，也要注意精简语言（避免堆砌技术词，省略不必要的描述），一条工作描述尽量不要超过两行，对于大的功能模块可适当分多个子条。另外，还应该要避免过于书面化的介绍。
+**技术栈** ：Spring Boot + MySQL + Redis + Mybatis + MQ
+
+**工作内容** : 
+
+1、主导主数据ROUTING模块全生命周期开发，累计交付需求200+，代码量超8.5万行，缺陷率持续低于目标值。
+
+2、主导模块SaaS化升级，完成对外接口、消息、客制化程序的详细设计及集成梳理，支撑产品架构升级。
+
+3、长期看护云原生部署运维，主导EKS迁移、华为云环境切换等关键任务，实现模块生产环境零重大问题。
+
+4、培养新员工2名并辅导转正，赋能团队工具开发与部署流程，显著提升团队效率。
 
 
 
 <div style="display: flex; justify-content: space-between;">
-  <div style="font-size: 15px;"><strong>快鸭云盘（2017 年 6 月 ~ 2017 年 9 月 ）</strong></div>
-  <div>Java 后端开发工程师</div>
+  <div style="font-size: 15px;"><strong>鸿蒙媒体子系统（2024 年 5 月 ~ 至今 ）</strong></div>
+  <div>系统开发工程师</div>
 </div>
 
-**项目描述** : 一款面向个人和团队的在线云存储系统，稳定可靠的储存任何文件，支持文件分享，精细权限设置，性能优秀。
+**项目描述** : 鸿蒙媒体子系统音频组件用于实现音频相关的功能，包括音频播放，录制，音量管理和设备管理。
 
-**技术栈** ：Spring Boot +  Mybatis-plus + Spring Security + MySQL + Redis + Elasticsearch + MinIO
+**工作内容** : 
 
-**工作内容/个人职责** : 
+1、参与新PC拾音框架开发，负责多实例的算法前数据通路构建，完成了上行音效多实例采样率和位深差异化适配、EC数据规格传递&对齐(重采)、PNR数据规格传递&对齐(重采)需求，保障了PC拾音算法对多种类型外设的支持。
 
-1. 基于 SpringSecurity + JWT 实现了登录认证，实现了同端互斥登录和强制下线功能。
-2. 权限模型使用业界主流的 RBAC，引入了 VIP 用户机制，VIP 用户上传下载速度不受限制。
-3. 开发文件上传模块，基于 MinIO 实现了文件的分片上传、断点续传以及极速秒传功能。
-4. 基于 `CompletableFuture`+ 线程池实现大文件的多线程下载，可自定义线程数。相同带宽下测试，多线程下载速度可达单线程下载的 5 倍。
-5. ......
+2、参与自研音频引擎总体设计工作，承担投播通路和分流通路详细设计开发工作。
 
-参考资料：[网盘项目通用的介绍模板、优化思路以及面试知识点考察分析](https://mp.weixin.qq.com/s/OIDl6ABLnBRvSSHngRvh5A)
+3、参与S2TT引擎攻关工作，制定云测时延统计和优化方案。
 
-## 荣誉奖项（可选）
+ 
 
-如果你有含金量比较高的竞赛（比如ACM、阿里的天池大赛）的获奖经历的话，荣誉奖项这块内容一定要写一下！并且，你还可以将荣誉奖项这块内容适当往前放，放在一个更加显眼的位置。
 
-## 开源项目（可选）
-
-如果有觉得比较有价值的个人或者自己参与过开源项目的话，可以放在这里。
-
-## 校园经历（可选）
-
-如果有比较亮眼的校园经历的话就简单写一下，没有就不写！
 
 ## 个人评价
 
